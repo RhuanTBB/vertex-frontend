@@ -52,3 +52,6 @@ pnpm-lock.yaml
 .cache/
 *.tgz
 
+# Local artifact downloads
+artifact-download/
+
