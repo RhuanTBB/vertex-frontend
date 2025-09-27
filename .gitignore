@@ -45,11 +45,13 @@ coverage-final.json
 nyc_output/
 
 # Lockfiles
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
 # Misc
 .cache/
 *.tgz
+
+# Local artifact downloads
+artifact-download/
 
