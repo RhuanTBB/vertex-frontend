@@ -45,7 +45,6 @@ coverage-final.json
 nyc_output/
 
 # Lockfiles
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
